@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dineshgatla
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Artificial intellegence
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me dineshgatla1024@gmail.com
 
